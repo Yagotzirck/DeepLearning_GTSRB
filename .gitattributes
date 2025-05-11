@@ -1,0 +1,3 @@
+*.eps -text -diff
+*.png -text -diff
+*.svg -text -diff
