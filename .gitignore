@@ -311,3 +311,28 @@ TSWLatexianTemp*
 # option is specified. Footnotes are the stored in a file with suffix Notes.bib.
 # Uncomment the next line to have this generated file ignored.
 #*Notes.bib
+
+% Ignore compiled document
+00_DLA_GTSRB.pdf
+
+
+######################################################################
+# MATLAB and dataset related files
+
+# Autosave files
+/src/**/*.asv
+
+# Saved variables / pretrained nets
+/src/**/*.mat
+
+# Dataset-related files
+
+# Archive
+/src/archive.zip
+
+# Images
+/src/**/*.png
+
+# .csv and .ods# files
+/src/**/*.csv
+/src/**/*.ods#
